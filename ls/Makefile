@@ -1,2 +1,2 @@
 all:
-	g++ -o lbc_ls main.cpp
+	g++ -o lbc_ls lbc_ls.cpp
